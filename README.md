@@ -1,6 +1,6 @@
 # conwaysgameoflife
 
-"TheStableCode" is a Dart code implementation of Conway's Game of Life. Let's analyze the code step by step:
+A Dart code implementation of Conway's Game of Life. This version only prints every 100 generations in favor of speed.
 
 1. The code begins with importing the necessary libraries: `dart:io` for input/output operations and `dart:convert` for character encoding and decoding.
 
